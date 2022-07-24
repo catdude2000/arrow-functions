@@ -224,7 +224,9 @@ joe.scopeArrow();
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
 //an object (student-Joe)
+
 // 2. What is "this" when joe.scopeArrow() is invoked?
 //Window-an object with many details, not rendered as a student
+
 // 3. Explain why "this" is different when an arrow function is used.
 //It can not be used as methods
